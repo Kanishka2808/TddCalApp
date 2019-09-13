@@ -1,0 +1,6 @@
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\bin\Debug\TddCalApp.library.dll
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\bin\Debug\TddCalApp.library.pdb
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.csprojAssemblyReference.cache
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.csproj.CoreCompileInputs.cache
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.dll
+C:\Training-Kanishka\WebApi\TddCalApp\TddCalApp.library\obj\Debug\TddCalApp.library.pdb
